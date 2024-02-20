@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document 1</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div>
+    <h4>Enver</h4>
+  </div>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Services</a>
+        <a href="#">Our Project</a>
+        <a href="#">About Us</a>
+        <a href="#">Contact Us</a>
+    </nav>
+</header>
+<main>
+    <h1>Build Your <br>Awesome <br>Platform</h1>
+
+    <div class="button">Our Services</div>
+    <p>Enver stuio is a digital studio that offers several services such <br> UI/UX Design to developers, we will provide the best <br>service for those of you who use our services.</p>
+</main>
+</body>
+</html>
